@@ -3,3 +3,4 @@ line2
 line3 changing-b
 line4
 line5
+line5git checkout -b workinggit checkout -b working
